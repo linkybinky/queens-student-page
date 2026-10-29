@@ -12,6 +12,4 @@ def Solution(X, A):
                 return i+1
     return -1
 
-A = [1,3,1,4,2,3,5,4]
-print(Solution(5,A))
 

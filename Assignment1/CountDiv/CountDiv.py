@@ -6,5 +6,3 @@ def solution(A, B, K):
         if i % K  ==0:
             count+=1
     return count
-
-print(solution(6,6,2))

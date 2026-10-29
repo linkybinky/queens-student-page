@@ -8,6 +8,3 @@ def Solution(A):
         else:
             return 0
     return 1
-
-A = [1,2,3,4,7,6]
-print(Solution(A))

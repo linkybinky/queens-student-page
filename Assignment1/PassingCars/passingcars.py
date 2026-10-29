@@ -15,6 +15,3 @@ def count_pairs(A):
         return -1
     else:
         return pairs
-
-A = [0,0,1,1,1]
-print(count_pairs(A))  
